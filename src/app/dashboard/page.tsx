@@ -3,7 +3,6 @@ import { useState , useEffect} from 'react';
 import React from 'react'
 import productData from '../Data/productData';
 import Image from 'next/image';
-import recomendedData from '../Data/recommendData';
 import Link from 'next/link';
 
 export default function Dashboard() {
