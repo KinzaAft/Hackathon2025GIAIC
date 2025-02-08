@@ -2,7 +2,7 @@ import Image from "next/image";
 import Hero from "./Components/hero";
 import Second from "./Components/secondsection";
 import Popular from "./Components/popular";
-import recomendedData from "./Data/recommendData";
+
 import Link from "next/link";
 
 export default function Home() {
